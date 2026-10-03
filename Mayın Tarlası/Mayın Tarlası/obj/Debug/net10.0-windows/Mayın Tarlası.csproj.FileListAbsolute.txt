@@ -1,0 +1,17 @@
+C:\Users\hasan\source\repos\Mayın Tarlası\Mayın Tarlası\bin\Debug\net10.0-windows\Mayın Tarlası.exe
+C:\Users\hasan\source\repos\Mayın Tarlası\Mayın Tarlası\bin\Debug\net10.0-windows\Mayın Tarlası.deps.json
+C:\Users\hasan\source\repos\Mayın Tarlası\Mayın Tarlası\bin\Debug\net10.0-windows\Mayın Tarlası.runtimeconfig.json
+C:\Users\hasan\source\repos\Mayın Tarlası\Mayın Tarlası\bin\Debug\net10.0-windows\Mayın Tarlası.dll
+C:\Users\hasan\source\repos\Mayın Tarlası\Mayın Tarlası\bin\Debug\net10.0-windows\Mayın Tarlası.pdb
+C:\Users\hasan\source\repos\Mayın Tarlası\Mayın Tarlası\obj\Debug\net10.0-windows\Mayın_Tarlası.Form1.resources
+C:\Users\hasan\source\repos\Mayın Tarlası\Mayın Tarlası\obj\Debug\net10.0-windows\Mayın Tarlası.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\Mayın Tarlası\Mayın Tarlası\obj\Debug\net10.0-windows\Mayın Tarlası.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\Mayın Tarlası\Mayın Tarlası\obj\Debug\net10.0-windows\Mayın Tarlası.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\Mayın Tarlası\Mayın Tarlası\obj\Debug\net10.0-windows\Mayın Tarlası.AssemblyInfo.cs
+C:\Users\hasan\source\repos\Mayın Tarlası\Mayın Tarlası\obj\Debug\net10.0-windows\Mayın Tarlası.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Mayın Tarlası\Mayın Tarlası\obj\Debug\net10.0-windows\Mayın Tarlası.dll
+C:\Users\hasan\source\repos\Mayın Tarlası\Mayın Tarlası\obj\Debug\net10.0-windows\refint\Mayın Tarlası.dll
+C:\Users\hasan\source\repos\Mayın Tarlası\Mayın Tarlası\obj\Debug\net10.0-windows\Mayın Tarlası.pdb
+C:\Users\hasan\source\repos\Mayın Tarlası\Mayın Tarlası\obj\Debug\net10.0-windows\Mayın Tarlası.genruntimeconfig.cache
+C:\Users\hasan\source\repos\Mayın Tarlası\Mayın Tarlası\obj\Debug\net10.0-windows\ref\Mayın Tarlası.dll
+C:\Users\hasan\source\repos\Mayın Tarlası\Mayın Tarlası\obj\Debug\net10.0-windows\May_n Ta.B42E98B2.Up2Date
